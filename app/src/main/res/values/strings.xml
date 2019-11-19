@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracRadp2p1sccm</string>
+    <string name="t1t">Manejo de Radios de Seleccion</string>
+    <string name="t2t">Selecciona tu carrera</string>
+    <string name="rb1">ISC</string>
+    <string name="rb2">ITIC\'s</string>
+    <string name="rb3">Ing. Ambiental</string>
+    <string name="rb4">Lic. Gastronimia</string>
+    <string name="btn1">Mensaje</string>
+    <string name="t3t">Uso de Internet</string>
+    <string name="ch1">Casa</string>
+    <string name="ch2">Escuela</string>
+    <string name="ch3">Trabajo</string>
+</resources>
